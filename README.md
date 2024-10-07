@@ -23,17 +23,7 @@ Please don't send me a pull request with your solution. It can be a bit confusin
 ### Gilded Rose Requirements in other languages 
 
 - [English](GildedRoseRequirements.md)
-- [Español](GildedRoseRequirements_es.md)
 - [Français](GildedRoseRequirements_fr.md)
-- [Italiano](GildedRoseRequirements_it.md)
-- [日本語](GildedRoseRequirements_jp.md)
-- [Português](GildedRoseRequirements_pt-BR.md)
-- [Русский](GildedRoseRequirements_ru.txt)
-- [ไทย](GildedRoseRequirements_th.md)
-- [中文](GildedRoseRequirements_zh.txt)
-- [한국어](GildedRoseRequirements_kr.md)
-- [German](GildedRoseRequirements_de.md)
-- [Euskara](GildedRoseRequirements_eu.md)
 
 ## Text-Based Approval Testing
 
